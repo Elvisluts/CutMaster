@@ -31,3 +31,4 @@
 /home/native/Documents/CutMaster/CutMaster/obj/Debug/net8.0/CutMaster.pdb
 /home/native/Documents/CutMaster/CutMaster/obj/Debug/net8.0/CutMaster.genruntimeconfig.cache
 /home/native/Documents/CutMaster/CutMaster/obj/Debug/net8.0/ref/CutMaster.dll
+/home/native/Documents/CutMaster/CutMaster/obj/Debug/net8.0/CutMaster.sourcelink.json
