@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CutMaster.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2b59ca853a6629bf500c8721fe35a907bfbe4e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ea9662a6606cdc266ec73799cb35d57be8fe828")]
 [assembly: System.Reflection.AssemblyProductAttribute("CutMaster.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CutMaster.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
