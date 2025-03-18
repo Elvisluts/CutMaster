@@ -11,5 +11,8 @@ namespace CutMaster.API.Data
         }
 
         public DbSet<Barber> Barbers { get; set; }
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Booking> Bookings { get; set; }
+        public DbSet<Service> Services { get; set; }
     }
 }
